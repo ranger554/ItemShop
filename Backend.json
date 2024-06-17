@@ -2,9 +2,9 @@
     "//": "BR Item Shop Config",
     "daily1": {
         "itemGrants": [
-            "AthenaCharacter:CID_044_Athena_Commando_F_SciPop"
+            "AthenaCharacter:CID_715_Athena_Commando_F_TwinDark"
         ],
-        "price": 1200
+        "price": 1000
     },
     "daily2": {
         "itemGrants": [
@@ -14,7 +14,7 @@
     },
     "daily3": {
         "itemGrants": [
-            "AthenaDance:EID_CrabDance"
+            "AthenaDance:EID_TakeTheL"
         ],
         "price": 500
     },
@@ -38,9 +38,8 @@
     },
     "featured1": {
         "itemGrants": [
-            "AthenaCharacter:CID_048_Athena_Commando_F_HolidayGingerbread", "AthenaBackpack:BID_187_GingerbreadFemale"
-        ],
-        "price": 1500
+            "AthenaCharacter:CID_029_Athena_Commando_F_Halloween"
+        "price": 1200
     },
     "featured2": {
         "itemGrants": [
@@ -50,7 +49,7 @@
     },
     "featured3": {
         "itemGrants": [
-            "AthenaPickaxe:Pickaxe_ID_329_GingerbreadCookie1H"
+            "AthenaPickaxe:Pickaxe_ID_376_FNCS"
         ],
         "price": 0
     }
